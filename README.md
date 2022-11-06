@@ -1,5 +1,5 @@
 # District Tourism Promotion Mobile Application
-District tourism promotion app is a mobile application which works on smart phones which has android operating system. It suports in versions above Android 8. This project is done based on the partial fullfilment of a 2 credit course called Mobile Application Development Lab in Bachelor of Computer Applications degree. This project is completely done in Android studio environment and tested in Android 12 version. The project is implemented in Java programming language and GUI is implemented in XML. Basically this project is based on the promotion of tourism in Pathanamthitta District of Kerala state in India.
+District tourism promotion app is a mobile application which works on smart phones which having android operating system. It suports in versions above Android 8. This project is done based on the partial fullfilment of a 2 credit course called Mobile Application Development Lab in Bachelor of Computer Applications degree. This project is completely done in Android studio environment and tested in Android 12 version. The project is implemented in Java programming language and GUI is implemented in XML. Basically this project is based on the promotion of tourism in Pathanamthitta District of Kerala state in India.
 
 ## Screenshots 
 
